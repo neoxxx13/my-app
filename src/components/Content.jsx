@@ -6,6 +6,7 @@ function Content () {
             </div>
             <h1 className="zag">заголовок</h1>
             <div className="text">text</div>
+            <div className="text">text2</div>
         </div>
     );
 }

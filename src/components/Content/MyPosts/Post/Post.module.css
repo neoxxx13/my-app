@@ -1,0 +1,15 @@
+
+.text {
+    font-size: 24px;
+}
+.text img {
+    width: 50px;
+}
+.message {
+    padding: 0px 0px 0px 10px;
+    line-height: 150%;
+}
+.like {
+    padding: 10px 0px;
+    font-size: 16px;
+}

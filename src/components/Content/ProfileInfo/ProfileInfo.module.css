@@ -1,0 +1,25 @@
+.fon img {
+    height: 197px;
+}
+.discriptionBlock {
+    padding: 10px;
+    display: grid;
+    grid-template-areas: 
+    "foto username"
+    "foto informations";
+    grid-template-columns: 1fr 5fr;
+}
+.foto {
+    max-width: 150px;
+    grid-area: foto;
+}
+.username {
+grid-area: username;
+padding: 0px 0px 10px 0px;
+}
+.informations {
+    grid-area: informations;
+}
+.elem {
+    padding: 0px 0px 5px 0px;
+}

@@ -1,0 +1,24 @@
+.postBlock {
+    padding: 10px;
+}
+h3 {
+    font-size: 24px;
+}
+.textarea {
+    margin: 10px 0px;
+}
+.button {
+    background-color: #22ca41;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 150%;
+    padding: 10px;
+    transition: all 0.3s ease 0s;
+}
+.button:hover {
+    background-color: #95d624;
+    color: #fff;
+}
+.posts {
+    margin: 10px 0px 0px 0px;
+}

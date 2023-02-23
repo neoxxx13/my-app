@@ -1,0 +1,33 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+.dialogsItems {
+    padding: 10px;
+}
+.dialogsItems .active {
+    color: gold;
+}
+.dialog {
+}
+.messages {
+    padding: 10px;
+}
+.message {
+}
+.button {
+    background-color: #22ca41;
+    display: block;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 150%;
+    padding: 10px;
+    transition: all 0.3s ease 0s;
+}
+.button:hover {
+    background-color: #95d624;
+    color: #fff;
+}
+.textarea {
+    margin: 10px 0px;
+}

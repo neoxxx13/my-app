@@ -84,4 +84,5 @@ export const sendMessageCreator = () => ({ type: SEND_MESSAGES })
 export const updateNewMessageBodyCreator = (body) => 
     ({ type: UPDATE_NEW_MESSAGE_BODY, body: body })
 
+    
 export default store;
